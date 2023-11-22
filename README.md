@@ -1,36 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010001&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=050505&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nycolas+Padilha;I'm+20+years+old;I'm+from+Brazil;I'm+a+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=010001&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nycolas+Padilha;I'm+20+years+old;I'm+from+Brazil;I'm+a+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
-# About Me
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non enim et massa maximus faucibus. In quis lectus et sapien ultricies tempus sed eget ligula. Vivamus lacinia elit suscipit justo porta, sit amet pretium lorem eleifend. Vestibulum sed eros faucibus, laoreet nulla at, egestas nulla. Donec ullamcorper tincidunt nunc sed posuere. Curabitur non purus feugiat, hendrerit erat ut, varius nibh. Pellentesque eu tellus leo.</p>
+## About Me
+Olá, meu nome é **Nycolas Padilha**, sou de Santa Catarina. Sou *Desenvolvedor Web Júnior*  🖥️  e aluno da  *Formação de Desenvolvimento Web* na **Trybe**. 
 
 <!-- Contact Info -->
-[<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/nycolas-padilha/)
-[<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/NyPadilha?tab=repositories)
+[<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="45" height="45">](https://www.linkedin.com/in/nycolas-padilha/)
+[<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="45" height="45">](https://github.com/NyPadilha?tab=repositories)
 
 <br>
 
 <img align="right" width=50% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSIzXP2SR00CPEIDAQk8iug3D-UaG0cxOEw&usqp=CAU" >
 
-### Front End
+****Front End****
+  [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">](https://pt-br.reactjs.org/)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non enim et massa maximus faucibus. In quis lectus et sapien ultricies tempus sed eget ligula. Vivamus lacinia elit suscipit justo porta, sit amet pretium lorem eleifend. Vestibulum sed eros faucibus, laoreet nulla at, egestas nulla. Donec ullamcorper tincidunt nunc sed posuere. Curabitur non purus feugiat, hendrerit erat ut, varius nibh. Pellentesque eu tellus leo.</p>
+- 📖 Como desenvolvedor *Front End*, minha expertise está centrada no uso da biblioteca **React**, uma poderosa *biblioteca **JavaScript*** de código aberto, amplamente reconhecida por sua capacidade de criar interfaces de usuário dinâmicas e eficientes em páginas web. Este projeto é mantido por gigantes da indústria, incluindo **Facebook** e **Instagram**, além de contar com a colaboração ativa de uma comunidade diversificada de desenvolvedores individuais.
 
 <br>
 
-### Back End
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non enim et massa maximus faucibus. In quis lectus et sapien ultricies tempus sed eget ligula. Vivamus lacinia elit suscipit justo porta, sit amet pretium lorem eleifend. Vestibulum sed eros faucibus, laoreet nulla at, egestas nulla. Donec ullamcorper tincidunt nunc sed posuere. Curabitur non purus feugiat, hendrerit erat ut, varius nibh. Pellentesque eu tellus leo.</p>
+****Back End****
+  [<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20">](https://pt-br.reactjs.org/)
+  
+- 🔙 Sou um desenvolvedor *Back End* com experiência em ferramentas como o **NodeJS**, utilizando o *framework* ***Express*** para a construção de servidores web modernos. Minha abordagem de desenvolvimento inclui a aplicação do *padrão arquitetônico* **MSC**, que organiza as responsabilidades em camadas distintas, como *model*, *service* e *controller*.
+- 🔑 Tenho conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**. Minha prática de desenvolvimento segue os princípios da *arquitetura* **SOLID** faço uso do **ORM** ***Sequelize*** para a interação eficiente com o banco de dados.
+- 📜 Possuo conhecimentos no *banco de dado* **MySQL**, proporcionando uma base robusta para o armazenamento e recuperação de dados.
+- 📖 Recentemente, iniciei a adoção do **TypeScript** em meus projetos, trazendo maior segurança e facilidade de manutenção ao meu código.
 
 <br><br>
 
 <div align="center">
   <table>
     <tr>
-      <th>Primary Languages and Frameworks</th>
+      <th>Primary Skills</th>
     </tr>
     <tr>
       <td align="center">
@@ -42,7 +47,7 @@
       </td>
     </tr>
     <tr>
-      <th>Secondary Languages and Frameworks</th>
+      <th>Secondary Skills</th>
     </tr>
     <tr>
       <td align="center">
@@ -60,7 +65,7 @@
 
 <!--Most Used Languages -->
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&theme=onedark" target="_blank" width="440" height="140px" ></a>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&title_color=010001&text_color=010001&bg_color=2D333B" target="_blank" width="440" height="140px" ></a>
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&theme=onedark&card_width=443) -->
 
@@ -75,7 +80,7 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010001&height=120&section=footer"/>
   
 <!-- Img ot use another Time -->
 <!-- Javasctip other color
