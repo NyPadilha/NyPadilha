@@ -18,15 +18,15 @@ Olá, meu nome é **Nycolas Padilha**, sou de Santa Catarina. Sou *Desenvolvedor
 ****Front End****
   [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">](https://pt-br.reactjs.org/)
 
-- 📖 Como desenvolvedor *Front End*, minha expertise está centrada no uso da biblioteca **React**, uma poderosa *biblioteca **JavaScript*** de código aberto, amplamente reconhecida por sua capacidade de criar interfaces de usuário dinâmicas e eficientes em páginas web. Este projeto é mantido por gigantes da indústria, incluindo **Facebook** e **Instagram**, além de contar com a colaboração ativa de uma comunidade diversificada de desenvolvedores individuais.
+- 📖 Desenvolvedor *Front End* com foco em **React**, uma poderosa *biblioteca **JavaScript*** de código aberto. Especializado em criar interfaces de usuário dinâmicas e eficientes para páginas web. O projeto é mantido por grandes empresas como **Facebook** e **Instagram**, com colaboração ativa de uma comunidade diversificada de desenvolvedores individuais.
 
 <br>
 
 ****Back End****
   [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40">]([https://pt-br.reactjs.org/](https://nodejs.org/en))
   
-- 🔙 Sou um desenvolvedor *Back End* com experiência em ferramentas como o **NodeJS**, utilizando o *framework* ***Express*** para a construção de servidores web modernos. Minha abordagem de desenvolvimento inclui a aplicação do *padrão arquitetônico* **MSC**, que organiza as responsabilidades em camadas distintas, como *model*, *service* e *controller*.
-- 🔑 Tenho conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**. Minha prática de desenvolvimento segue os princípios da *arquitetura* **SOLID** faço uso do **ORM** ***Sequelize*** para a interação eficiente com o banco de dados.
+- 🔙 Sou um desenvolvedor *Back End* com experiência em **NodeJS**, utilizando o *framework* ***Express*** para a construção de servidores web modernos. Aplico o *padrão arquitetônico* **MSC**, organizando responsabilidades em camadas como *model*, *service* e *controller*.
+- 🔑 Tenho conhecimento em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**. Minha prática de desenvolvimento segue os princípios da *arquitetura* **SOLID** e faço uso do **ORM** ***Sequelize*** para a interação eficiente com o banco de dados.
 - 📜 Possuo conhecimentos no *banco de dado* **MySQL**, proporcionando uma base robusta para o armazenamento e recuperação de dados.
 - 📖 Recentemente, iniciei a adoção do **TypeScript** em meus projetos, trazendo maior segurança e facilidade de manutenção ao meu código.
 
