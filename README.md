@@ -23,7 +23,7 @@ Olá, meu nome é **Nycolas Padilha**, sou de Santa Catarina. Sou *Desenvolvedor
 <br>
 
 ****Back End****
-  [<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20">](https://pt-br.reactjs.org/)
+  [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40">]([https://pt-br.reactjs.org/](https://nodejs.org/en))
   
 - 🔙 Sou um desenvolvedor *Back End* com experiência em ferramentas como o **NodeJS**, utilizando o *framework* ***Express*** para a construção de servidores web modernos. Minha abordagem de desenvolvimento inclui a aplicação do *padrão arquitetônico* **MSC**, que organiza as responsabilidades em camadas distintas, como *model*, *service* e *controller*.
 - 🔑 Tenho conhecimentos em *autenticação* de rotas utilizando o **JSON Web Token** ou **JWT**. Minha prática de desenvolvimento segue os princípios da *arquitetura* **SOLID** faço uso do **ORM** ***Sequelize*** para a interação eficiente com o banco de dados.
