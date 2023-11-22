@@ -13,7 +13,7 @@ Olá, meu nome é **Nycolas Padilha**, sou de Santa Catarina. Sou *Desenvolvedor
 
 <br>
 
-<img align="right" width=50% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSIzXP2SR00CPEIDAQk8iug3D-UaG0cxOEw&usqp=CAU" >
+<img align="right" width=40% src="./cat-code.gif" >
 
 ****Front End****
   [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">](https://pt-br.reactjs.org/)
