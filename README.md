@@ -4,10 +4,6 @@
 
 <br>
 
-
-<img align="right" height="25px" src="./img/us-button.png" href="README_en.md" >
-<img align="right" height="25px" src="./img/br-button.png" href="README.md" >
-
 ## About Me
 
 - 📖 Olá, meu nome é **Nycolas Padilha**, sou de Santa Catarina. Sou *Desenvolvedor Web Júnior*  🖥️  e aluno da  *Formação de Desenvolvimento Web FullStack* na **Trybe**. 
