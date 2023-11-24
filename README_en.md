@@ -4,9 +4,9 @@
 
 <br>
 
+<img align="right" height="25px" src="./img/br-button.png" href="README.md" >
 
 <img align="right" height="25px" src="./img/us-button.png" href="README_en.md" >
-<img align="right" height="25px" src="./img/br-button.png" href="README.md" >
 
 ## About Me
 
@@ -72,7 +72,6 @@
 <div align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&title_color=010001&text_color=010001&bg_color=2D333B&border_color=010001&border_radius=10 target="_blank" width="440" height="140px" ></a>
 </div>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&theme=onedark&card_width=443) -->
 
 <br><br>
 
@@ -86,43 +85,3 @@
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010001&height=120&section=footer"/>
-  
-<!-- Img ot use another Time -->
-<!-- Javascript other color
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
--->
-<!-- Rust
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" >
--->
-<!-- React Native
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
--->
-<!-- Tailwind
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" >
--->
-<!-- PostgreSQL
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
--->
-<!-- Flask
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
--->
-<!-- Test
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" >
-<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" >
-<img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" >
-<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" >
--->
-
-<!--
-**NyPadilha/NyPadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
