@@ -66,7 +66,7 @@
 
 <!--Most Used Languages -->
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&title_color=010001&text_color=010001&bg_color=2D333B&border_color=010001" target="_blank" width="440" height="140px" ></a>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2D333B" target="_blank" width="440" height="140px" ></a>
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyPadilha&layout=compact&theme=onedark&card_width=443) -->
 
