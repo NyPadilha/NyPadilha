@@ -14,8 +14,6 @@
 
 <br>
 
-<img align="right" width=47% src="./img/cat-code.gif" >
-
 ****Front End****
   [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">](https://pt-br.reactjs.org/)
 
