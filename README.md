@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 📖 Olá, meu nome é **Nycolas Padilha**, sou *Desenvolvedor Web Júnior*  🖥️  e aluno da  *Formação de Desenvolvimento Web FullStack* na **Trybe** e moro em *Santa Catarina*. 
+- 📖 Olá, meu nome é **Nycolas Padilha**, sou *Desenvolvedor Web Júnior*  🖥️  e aluno da  *Formação de Desenvolvimento Web FullStack* na **Trybe**. 
 
 <!-- Contact Info -->
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="45" height="45">](https://www.linkedin.com/in/nycolas-padilha/)
