@@ -9,8 +9,8 @@
 - 📖 Olá, meu nome é **Nycolas Padilha**, sou *Desenvolvedor Web Júnior*  🖥️  e aluno da  *Formação de Desenvolvimento Web FullStack* na **Trybe**. 
 
 <!-- Contact Info -->
-[<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="45" height="45">](https://www.linkedin.com/in/nycolas-padilha/)
-[<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="45" height="45">](https://github.com/NyPadilha?tab=repositories)
+<a href="https://www.linkedin.com/in/nycolas-padilha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/NyPadilha?tab=repositories)
 
 <br><br>
 
@@ -67,7 +67,10 @@
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" >
         <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" >
 <!--         <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" > -->
-<!--         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" > -->
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" >
+        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" >
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" >
       </td>
     </tr>
     <tr>
@@ -77,7 +80,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 <!--         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" > -->
-<!--         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" > -->
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
       </td>
     </tr>
 <!--     <tr>
